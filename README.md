@@ -1,1 +1,2 @@
-this is a masterpiece
+-this is a masterpiece
+`Google` has responsibility.
